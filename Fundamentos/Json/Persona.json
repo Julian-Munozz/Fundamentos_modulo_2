@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "nombre": "Julian Muñoz",
+    "edad": 24,
+    "direccion": {
+        "ciudad": "Bogotá",
+        "pais": "Colombia"
+    },
+    "hobbies": [
+        "Leer",
+        "Viajar",
+        "Programar"
+    ],
+    "isBellaco": true
+}
